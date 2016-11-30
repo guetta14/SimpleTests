@@ -40,9 +40,27 @@ public class SimpleTest {
         boolean smallerThanFifee =  randomNumber < 50 ? true : false;
         Assert.assertEquals(smallerThanFifee, true);
     }
-
+   
     @Test
     public void sometimesPass2()
+    {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        boolean smallerThanFifee =  randomNumber < 50 ? true : false;
+        Assert.assertEquals(smallerThanFifee, true);
+    }
+
+    @Test
+    public void sometimesPass3()
+    {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        boolean smallerThanFifee =  randomNumber < 50 ? true : false;
+        Assert.assertEquals(smallerThanFifee, true);
+    }
+   
+   @Test
+    public void sometimesPass4()
     {
         Random random = new Random();
         int randomNumber = random.nextInt(100);
