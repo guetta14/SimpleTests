@@ -9,31 +9,31 @@ import java.util.Random;
 public class SimpleTest {
 
    @Test
-   public void alwaysPass1()
+   public void alwaysPassGuy1()
    {
        Assert.assertEquals(1, 1);
    }
 
     @Test
-    public void alwaysPass2()
+    public void alwaysPassGuy2()
     {
         Assert.assertEquals(1, 1);
     }
 
     @Test
-    public void alwaysFail1()
+    public void alwaysFailGuy1()
     {
         Assert.assertEquals(1, 0);
     }
 
     //@Test
-    public void alwaysFail2()
+    public void alwaysFailGuy2()
     {
         Assert.assertEquals(1, 0);
     }
 
     @Test
-    public void sometimesPass1()
+    public void sometimesPassGuy1()
     {
         Random random = new Random();
         int randomNumber = random.nextInt(100);
@@ -42,7 +42,7 @@ public class SimpleTest {
     }
    
     //@Test
-    public void sometimesPass2()
+    public void sometimesPassGuy2()
     {
         Random random = new Random();
         int randomNumber = random.nextInt(100);
@@ -51,7 +51,7 @@ public class SimpleTest {
     }
 
     @Test
-    public void sometimesPass3()
+    public void sometimesPassGuy3()
     {
         Random random = new Random();
         int randomNumber = random.nextInt(100);
@@ -60,7 +60,7 @@ public class SimpleTest {
     }
    
    @Test
-    public void sometimesPass4()
+    public void sometimesPassGuy4()
     {
         Random random = new Random();
         int randomNumber = random.nextInt(100);
