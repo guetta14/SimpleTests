@@ -19,11 +19,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="440">
+              <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -55,18 +55,18 @@
             <state relative-caret-position="286">
               <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
               <folding>
-                <marker date="1482655701114" expanded="true" signature="41988:42061" ph="..." />
-                <marker date="1482655701114" expanded="true" signature="41988:42030" ph="..." />
+                <marker date="1482655628270" expanded="true" signature="41982:42055" ph="..." />
+                <marker date="1482655628270" expanded="true" signature="41982:42024" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="286">
+              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -631,18 +631,11 @@
       <option name="project" value="LOCAL" />
       <updated>1482655606554</updated>
     </task>
-    <task id="LOCAL-00004" summary="git ignore 2">
-      <created>1482655728267</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1482655728267</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="901000" />
+    <option name="totallyTimeSpent" value="857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1170" extended-state="6" />
@@ -714,8 +707,7 @@
     <MESSAGE value="Intellij Commit" />
     <MESSAGE value="Intellij remove idea" />
     <MESSAGE value="Git Ignore" />
-    <MESSAGE value="git ignore 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git Ignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -755,9 +747,17 @@
         <state relative-caret-position="286">
           <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
           <folding>
-            <marker date="1482655701114" expanded="true" signature="41988:42061" ph="..." />
-            <marker date="1482655701114" expanded="true" signature="41988:42030" ph="..." />
+            <marker date="1482655628270" expanded="true" signature="41982:42055" ph="..." />
+            <marker date="1482655628270" expanded="true" signature="41982:42024" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -779,16 +779,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="286">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
           <folding />
         </state>
       </provider>
