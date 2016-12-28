@@ -1,4 +1,5 @@
 import junit.framework.Assert;
+import org.junit.Ignore;
 import org.junit.Test;
 import java.util.Random;
 
@@ -32,6 +33,7 @@ public class SimpleTest {
         Assert.assertEquals(1, 0);
     }
 
+    @Ignore
     @Test
     public void sometimesPassGuy1()
     {
