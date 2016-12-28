@@ -20,13 +20,13 @@ public class SimpleTest {
         Assert.assertEquals(1, 1);
     }
 
-    @Test
+    //@Test
     public void alwaysFailGuy1()
     {
         Assert.assertEquals(1, 0);
     }
 
-    @Test
+    //@Test
     public void alwaysFailGuy2()
     {
         Assert.assertEquals(1, 0);
@@ -41,7 +41,7 @@ public class SimpleTest {
         Assert.assertEquals(smallerThanFifee, true);
     }
    
-    @Test
+    //@Test
     public void sometimesPassGuy2()
     {
         Random random = new Random();
@@ -50,7 +50,7 @@ public class SimpleTest {
         Assert.assertEquals(smallerThanFifee, true);
     }
 
-    @Test
+    //@Test
     public void sometimesPassGuy3()
     {
         Random random = new Random();
@@ -59,7 +59,7 @@ public class SimpleTest {
         Assert.assertEquals(smallerThanFifee, true);
     }
    
-   @Test
+   //@Test
     public void sometimesPassGuy4()
     {
         Random random = new Random();
