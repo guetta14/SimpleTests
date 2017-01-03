@@ -40,20 +40,16 @@ public class SimpleTest {
         Random random = new Random();
         int randomNumber = random.nextInt(100);
         boolean smallerThanFifee =  randomNumber < 50 ? true : false;
-        try {
-            Thread.sleep(10000);
-        }catch(Exception e) {
-            System.out.println("Cannot Sleep");
-        }
         Assert.assertEquals(smallerThanFifee, true);
     }
    
     @Test
-    public void sometimesPassGuy2()
+    public void sometimesPassGuy2() throws InterruptedException
     {
         Random random = new Random();
         int randomNumber = random.nextInt(100);
         boolean smallerThanFifee =  randomNumber < 50 ? true : false;
+        Thread.sleep(10000);
         Assert.assertEquals(smallerThanFifee, true);
     }
 
