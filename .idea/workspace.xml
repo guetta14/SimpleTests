@@ -15,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="C:\Users\guettag\Desktop" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
@@ -23,8 +23,8 @@
       <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="51" column="22" lean-forward="false" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+            <state relative-caret-position="396">
+              <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -56,7 +56,7 @@
             <state relative-caret-position="286">
               <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
               <folding>
-                <marker date="1483444986881" expanded="true" signature="53566:53608" ph="..." />
+                <marker date="1483445596599" expanded="true" signature="54905:54947" ph="..." />
               </folding>
             </state>
           </provider>
@@ -694,7 +694,7 @@
       <workItem from="1482654759950" duration="214000" />
       <workItem from="1482657337457" duration="1879000" />
       <workItem from="1482915432454" duration="1448000" />
-      <workItem from="1483444133302" duration="965000" />
+      <workItem from="1483444133302" duration="2058000" />
     </task>
     <task id="LOCAL-00001" summary="Intellij Commit">
       <created>1482654950054</created>
@@ -745,11 +745,39 @@
       <option name="project" value="LOCAL" />
       <updated>1483444972193</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="number of files to commit changes on = 2">
+      <created>1483445103103</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1483445103103</updated>
+    </task>
+    <task id="LOCAL-00009" summary="a real sleep now">
+      <created>1483445311998</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1483445311998</updated>
+    </task>
+    <task id="LOCAL-00010" summary="a real sleep now">
+      <created>1483445552322</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1483445552322</updated>
+    </task>
+    <task id="LOCAL-00011" summary="number of files to commit changes on = 2">
+      <created>1483445584205</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1483445584205</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5149000" />
+    <option name="totallyTimeSpent" value="6242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1170" extended-state="6" />
@@ -826,7 +854,8 @@
     <MESSAGE value="ignore unstable test" />
     <MESSAGE value="sleep time" />
     <MESSAGE value="a real sleep now" />
-    <option name="LAST_COMMIT_MESSAGE" value="a real sleep now" />
+    <MESSAGE value="number of files to commit changes on = 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="number of files to commit changes on = 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -868,7 +897,7 @@
         <state relative-caret-position="286">
           <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
           <folding>
-            <marker date="1483444986881" expanded="true" signature="53566:53608" ph="..." />
+            <marker date="1483445596599" expanded="true" signature="54905:54947" ph="..." />
           </folding>
         </state>
       </provider>
@@ -910,7 +939,7 @@
         <state relative-caret-position="286">
           <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
           <folding>
-            <marker date="1483444986881" expanded="true" signature="53566:53608" ph="..." />
+            <marker date="1483445596599" expanded="true" signature="54905:54947" ph="..." />
           </folding>
         </state>
       </provider>
@@ -952,7 +981,7 @@
         <state relative-caret-position="286">
           <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
           <folding>
-            <marker date="1483444986881" expanded="true" signature="53566:53608" ph="..." />
+            <marker date="1483445596599" expanded="true" signature="54905:54947" ph="..." />
           </folding>
         </state>
       </provider>
@@ -994,7 +1023,7 @@
         <state relative-caret-position="286">
           <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
           <folding>
-            <marker date="1483444986881" expanded="true" signature="53566:53608" ph="..." />
+            <marker date="1483445596599" expanded="true" signature="54905:54947" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1025,8 +1054,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="51" column="22" lean-forward="false" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        <state relative-caret-position="396">
+          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
           <folding />
         </state>
       </provider>
