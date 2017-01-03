@@ -49,7 +49,7 @@ public class SimpleTest {
         Random random = new Random();
         int randomNumber = random.nextInt(100);
         boolean smallerThanFifee =  randomNumber < 50 ? true : false;
-        Thread.sleep(20000);
+        Thread.sleep(30000);
         Assert.assertEquals(smallerThanFifee, true);
     }
 
