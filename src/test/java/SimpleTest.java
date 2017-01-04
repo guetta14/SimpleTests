@@ -35,7 +35,7 @@ public class SimpleTest {
 
     @Ignore
     @Test
-    public void sometimesPassGuy1()
+    public void ignoredGuy1()
     {
         Random random = new Random();
         int randomNumber = random.nextInt(100);
