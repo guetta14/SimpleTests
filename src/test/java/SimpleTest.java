@@ -43,6 +43,7 @@ public class SimpleTest {
         Assert.assertEquals(smallerThanFifee, true);
     }
    
+    @Ignore
     @Test
     public void sometimesPassGuy2() throws InterruptedException
     {
