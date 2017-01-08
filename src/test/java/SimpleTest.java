@@ -1,8 +1,6 @@
-import com.hpe.alm.octane.OctaneCucumber;
 import junit.framework.Assert;
 import org.junit.Ignore;
 import org.junit.Test;
-import org.junit.runner.RunWith;
 
 import java.util.Random;
 
@@ -74,14 +72,6 @@ public class SimpleTest {
         int randomNumber = random.nextInt(100);
         boolean smallerThanFifee =  randomNumber < 50 ? true : false;
         Assert.assertEquals(smallerThanFifee, true);
-    }
-    @RunWith(OctaneCucumber.class)
-    public class RunCukesTest {
-        @Test
-        public void doNothing()
-        {
-
-        }
     }
 
 }
