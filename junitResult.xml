@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="2" tests="2" time="0.087194">
+<testcase classname="Add manual tests in context" name="Add an acceptance test for a user story" time="0.086998">
+<skipped><![CDATA[When there is a backlog with features and user stories......................pending
+And there is an application module tree.....................................undefined
+And in the backlog there is a feature f1....................................undefined
+And f1 is linked to application module am1..................................undefined
+And f1 has child user stories...............................................undefined
+When the user navigates to the backlog module...............................undefined
+And the user selects the feature f1.........................................undefined
+And he looks at the user stories............................................undefined
+And he selects a user story.................................................undefined
+And he goes to the tests tab................................................undefined
+And he adds a new Gherkin test..............................................undefined
+Then the test is linked to the user story...................................undefined
+And the test is linked to the application module am1 by default.............undefined
+And the default type of the test is "Acceptance"............................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Add manual tests in context" name="Add an acceptance test for a feature" time="0.000196">
+<skipped><![CDATA[When there is a backlog with features and user stories......................pending
+And there is an application module tree.....................................undefined
+And in the backlog there is a feature f1....................................undefined
+And f1 is linked to application module am1..................................undefined
+And f1 has child user stories...............................................undefined
+When the user navigates to the backlog module...............................undefined
+And the user selects the feature f1.........................................undefined
+And goes to the tests tab...................................................undefined
+And he adds a new manual test...............................................undefined
+Then the manual test is linked to the feature...............................undefined
+And the manual test is linked to the application module am1 by default......undefined
+And the default test type is "Acceptance"...................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
