@@ -64,7 +64,7 @@ public class SimpleTest {
     }
    
    @Test
-    public void sometimesPassGuy4()
+    public void sometimesPassGuy5()
     {
         Random random = new Random();
         int randomNumber = random.nextInt(100);
