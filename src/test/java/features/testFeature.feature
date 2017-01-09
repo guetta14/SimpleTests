@@ -1,6 +1,6 @@
 #Auto generated Octane revision tag
-#@TID194067REV0.2.0
-//@TestToRun
+@TID194067REV0.2.0
+@TestToRun
 Feature: Add manual tests in context
 
   Background:
