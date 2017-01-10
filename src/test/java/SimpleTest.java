@@ -7,7 +7,7 @@ import java.util.Random;
 
 
 /**
- * Created by gadiel on 15/11/2016.
+ * Created by Guy Guetta on 15/11/2016.
  */
 public class SimpleTest {
 
@@ -29,7 +29,7 @@ public class SimpleTest {
         Assert.assertEquals(1, 0);
     }
 
-    @Test
+//    @Test
     public void alwaysFailGuy2()
     {
         Assert.assertEquals(1, 0);
