@@ -39,7 +39,7 @@ public class SimpleTest {
         Assert.assertEquals(1, 3);
     }
 
-      @Test
+     // @Test
     public void sometimesPass1()
     {
         Random random = new Random();
