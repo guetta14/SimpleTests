@@ -45,7 +45,7 @@ public class SimpleTest {
         Assert.assertEquals(smallerThanFifee, true);
     }
    
-//    @Ignore
+    @Ignore
     @Test
     public void sometimesPassGuy2() throws InterruptedException
     {
@@ -56,7 +56,7 @@ public class SimpleTest {
         Assert.assertEquals(smallerThanFifee, true);
     }
 
-    @Test
+//    @Test
     public void sometimesPassGuy3()
     {
         Random random = new Random();
@@ -65,7 +65,7 @@ public class SimpleTest {
         Assert.assertEquals(smallerThanFifee, true);
     }
    
-   @Test
+//   @Test
     public void sometimesPassGuy5()
     {
         Random random = new Random();
