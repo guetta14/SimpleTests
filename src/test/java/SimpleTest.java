@@ -65,7 +65,7 @@ public class SimpleTest {
         Assert.assertEquals(smallerThanFifee, true);
     }
    
-    //@Test
+    @Test
     public void sometimesPassGuy5()
     {
         Random random = new Random();
