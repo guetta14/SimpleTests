@@ -24,8 +24,8 @@
       <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="54" column="16" lean-forward="false" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+            <state relative-caret-position="484">
+              <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#502#503#0" expanded="true" />
@@ -828,7 +828,7 @@
       <workItem from="1484031733113" duration="3214000" />
       <workItem from="1484470596347" duration="1836000" />
       <workItem from="1484481501113" duration="3483000" />
-      <workItem from="1485164605472" duration="955000" />
+      <workItem from="1485164605472" duration="1110000" />
     </task>
     <task id="LOCAL-00001" summary="Intellij Commit">
       <created>1482654950054</created>
@@ -1068,7 +1068,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485165527874</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="time">
+      <created>1485165589122</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1485165589122</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1101,7 +1108,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29570000" />
+    <option name="totallyTimeSpent" value="29725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1170" extended-state="6" />
@@ -1196,7 +1203,8 @@
     <MESSAGE value="number of files to commit changes on = 2" />
     <MESSAGE value="lower time" />
     <MESSAGE value="pass" />
-    <option name="LAST_COMMIT_MESSAGE" value="pass" />
+    <MESSAGE value="time" />
+    <option name="LAST_COMMIT_MESSAGE" value="time" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1629,8 +1637,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="54" column="16" lean-forward="false" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+        <state relative-caret-position="484">
+          <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#502#503#0" expanded="true" />
