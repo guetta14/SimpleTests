@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15ddfe16-2e07-4913-8a42-cf1e0a14c3f9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/SimpleTest.java" afterPath="$PROJECT_DIR$/src/test/java/SimpleTest.java" />
-    </list>
+    <list default="true" id="15ddfe16-2e07-4913-8a42-cf1e0a14c3f9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path=".gitignore" />
     <ignored path=".idea/workspace.xml" />
@@ -720,7 +718,7 @@
       <workItem from="1484470596347" duration="1836000" />
       <workItem from="1484481501113" duration="3483000" />
       <workItem from="1485164605472" duration="3748000" />
-      <workItem from="1485683674940" duration="1028000" />
+      <workItem from="1485683674940" duration="1175000" />
     </task>
     <task id="LOCAL-00001" summary="Intellij Commit">
       <created>1482654950054</created>
@@ -1035,7 +1033,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33391000" />
+    <option name="totallyTimeSpent" value="33538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1689" y="-9" width="1698" height="1018" extended-state="6" />
