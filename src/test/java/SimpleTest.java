@@ -109,4 +109,85 @@ public class SimpleTest {
         Assert.assertEquals(smallerThanFifee, true);
     }
 
+    @Test
+    public void sometimesPassGuy6()
+    {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        boolean smallerThanFifee =  randomNumber < 50 ? true : false;
+        Assert.assertEquals(smallerThanFifee, true);
+    }
+
+    @Test
+    public void sometimesPassGuy7()
+    {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        boolean smallerThanFifee =  randomNumber < 50 ? true : false;
+        Assert.assertEquals(smallerThanFifee, true);
+    }
+
+    @Test
+    public void sometimesPassGuy8()
+    {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        boolean smallerThanFifee =  randomNumber < 50 ? true : false;
+        Assert.assertEquals(smallerThanFifee, true);
+    }
+
+    @Test
+    public void sometimesPassGuy9()
+    {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        boolean smallerThanFifee =  randomNumber < 50 ? true : false;
+        Assert.assertEquals(smallerThanFifee, true);
+    }
+
+    @Test
+    public void sometimesPassGuy10()
+    {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        boolean smallerThanFifee =  randomNumber < 50 ? true : false;
+        Assert.assertEquals(smallerThanFifee, true);
+    }
+
+    @Test
+    public void sometimesPassGuy11()
+    {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        boolean smallerThanFifee =  randomNumber < 50 ? true : false;
+        Assert.assertEquals(smallerThanFifee, true);
+    }
+
+    @Test
+    public void sometimesPassGuy12()
+    {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        boolean smallerThanFifee =  randomNumber < 50 ? true : false;
+        Assert.assertEquals(smallerThanFifee, true);
+    }
+
+    @Test
+    public void sometimesPassGuy13()
+    {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        boolean smallerThanFifee =  randomNumber < 50 ? true : false;
+        Assert.assertEquals(smallerThanFifee, true);
+    }
+
+    @Test
+    public void sometimesPassGuy14()
+    {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        boolean smallerThanFifee =  randomNumber < 50 ? true : false;
+        Assert.assertEquals(smallerThanFifee, true);
+    }
+
 }
