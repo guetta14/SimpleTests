@@ -59,13 +59,13 @@ public class SimpleTest {
         Assert.assertEquals(1, 0);
     }
 
-    @Test
+//    @Test
     public void alwaysFailGuy7()
     {
         Assert.assertEquals(1, 0);
     }
 
-    @Test
+//    @Test
     public void alwaysFailGuy8()
     {
         Assert.assertEquals(1, 0);
