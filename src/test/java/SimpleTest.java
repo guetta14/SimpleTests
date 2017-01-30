@@ -23,14 +23,50 @@ public class SimpleTest {
         Assert.assertEquals(1, 1);
     }
 
-    //@Test
+    @Test
     public void alwaysFailGuy1()
     {
         Assert.assertEquals(1, 0);
     }
 
-//  @Test
+    @Test
     public void alwaysFailGuy2()
+    {
+        Assert.assertEquals(1, 0);
+    }
+
+    @Test
+    public void alwaysFailGuy3()
+    {
+        Assert.assertEquals(1, 0);
+    }
+
+    @Test
+    public void alwaysFailGuy4()
+    {
+        Assert.assertEquals(1, 0);
+    }
+
+    @Test
+    public void alwaysFailGuy5()
+    {
+        Assert.assertEquals(1, 0);
+    }
+
+    @Test
+    public void alwaysFailGuy6()
+    {
+        Assert.assertEquals(1, 0);
+    }
+
+    @Test
+    public void alwaysFailGuy7()
+    {
+        Assert.assertEquals(1, 0);
+    }
+
+    @Test
+    public void alwaysFailGuy8()
     {
         Assert.assertEquals(1, 0);
     }
