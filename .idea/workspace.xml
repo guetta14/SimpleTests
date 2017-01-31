@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ddfe16-2e07-4913-8a42-cf1e0a14c3f9" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/LargeScaleTesting.java" afterPath="$PROJECT_DIR$/src/test/java/LargeScaleTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/LargeScaleTest.java" afterPath="$PROJECT_DIR$/src/test/java/LargeScaleTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path=".gitignore" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="LargeScaleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/LargeScaleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="154">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -890,14 +890,7 @@
       <workItem from="1485164605472" duration="3748000" />
       <workItem from="1485683674940" duration="3269000" />
       <workItem from="1485763016761" duration="3069000" />
-      <workItem from="1485846750487" duration="3281000" />
-    </task>
-    <task id="LOCAL-00003" summary="Git Ignore">
-      <created>1482655606554</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1482655606554</updated>
+      <workItem from="1485846750487" duration="3350000" />
     </task>
     <task id="LOCAL-00004" summary="remove some failed tests">
       <created>1482915564882</created>
@@ -1235,7 +1228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485850030620</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="number of files to commit changes on = 2">
+      <created>1485850118853</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1485850118853</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1271,7 +1271,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41982000" />
+    <option name="totallyTimeSpent" value="42051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="2" width="1934" height="1156" extended-state="0" />
@@ -1789,8 +1789,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LargeScaleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
