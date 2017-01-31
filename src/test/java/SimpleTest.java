@@ -20,7 +20,7 @@ public class SimpleTest {
     public void alwaysPassGuy2() throws InterruptedException
     {
 //        Thread.sleep(100000);
-        Assert.assertEquals(1, 1);
+        Assert.assertEquals(1, 0);
     }
 
     @Test
