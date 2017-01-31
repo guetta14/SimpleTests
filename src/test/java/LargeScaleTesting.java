@@ -6,7 +6,8 @@ import org.junit.Test;
  */
 public class LargeScaleTesting {
 
-    @Test public void alwaysPassGuy1() {     Assert.assertEquals(1, 1); }
+    @Test
+    public void alwaysPassGuy1() {     Assert.assertEquals(1, 1); }
 //    @Test public void alwaysPassGuy2() {     Assert.assertEquals(1, 1); }
 //    @Test public void alwaysPassGuy3() {     Assert.assertEquals(1, 1); }
 //    @Test public void alwaysPassGuy4() {     Assert.assertEquals(1, 1); }
