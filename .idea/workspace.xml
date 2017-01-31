@@ -37,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/LargeScaleTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -890,14 +890,7 @@
       <workItem from="1485164605472" duration="3748000" />
       <workItem from="1485683674940" duration="3269000" />
       <workItem from="1485763016761" duration="3069000" />
-      <workItem from="1485846750487" duration="4294000" />
-    </task>
-    <task id="LOCAL-00006" summary="sleep time">
-      <created>1483444468271</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1483444468271</updated>
+      <workItem from="1485846750487" duration="4911000" />
     </task>
     <task id="LOCAL-00007" summary="a real sleep now">
       <created>1483444972193</created>
@@ -1235,7 +1228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485850526651</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="run 5000 tests">
+      <created>1485870430137</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1485870430138</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1271,7 +1271,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42995000" />
+    <option name="totallyTimeSpent" value="43612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="2" width="1934" height="1156" extended-state="0" />
@@ -1342,7 +1342,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="no gherkin" />
     <MESSAGE value="just commit" />
     <MESSAGE value="number of files to commit changes on = 3" />
     <MESSAGE value="enable gherkin" />
@@ -1367,7 +1366,8 @@
     <MESSAGE value="number of files to commit changes on = 1" />
     <MESSAGE value="number of files to commit changes on = 2" />
     <MESSAGE value="ignore tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore tests" />
+    <MESSAGE value="run 5000 tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="run 5000 tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1790,7 +1790,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/LargeScaleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
