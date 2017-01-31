@@ -8,6 +8,7 @@ import java.util.Random;
 /**
  * Created by Guy Guetta on 15/11/2016.
  */
+@Ignore
 public class SimpleTest {
 
    @Test
