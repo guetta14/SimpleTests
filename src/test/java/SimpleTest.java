@@ -8,17 +8,16 @@ import java.util.Random;
 /**
  * Created by Guy Guetta on 15/11/2016.
  */
-@Ignore
 public class SimpleTest {
 
    @Test
-   public void alwaysPassGuy1()
+   public void alwaysPassGuy88888()
    {
        Assert.assertEquals(1, 1);
    }
 
     @Test
-    public void alwaysPassGuy2() throws InterruptedException
+    public void alwaysPassGuy999999() throws InterruptedException
     {
 //        Thread.sleep(100000);
         Assert.assertEquals(1, 1);
