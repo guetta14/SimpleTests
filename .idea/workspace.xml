@@ -36,8 +36,8 @@
       <file leaf-file-name="LargeScaleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/LargeScaleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="132">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,7 +123,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -890,14 +890,7 @@
       <workItem from="1485164605472" duration="3748000" />
       <workItem from="1485683674940" duration="3269000" />
       <workItem from="1485763016761" duration="3069000" />
-      <workItem from="1485846750487" duration="3651000" />
-    </task>
-    <task id="LOCAL-00005" summary="ignore unstable test">
-      <created>1482915676803</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1482915676803</updated>
+      <workItem from="1485846750487" duration="4294000" />
     </task>
     <task id="LOCAL-00006" summary="sleep time">
       <created>1483444468271</created>
@@ -1235,7 +1228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485850212201</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="ignore tests">
+      <created>1485850526651</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1485850526651</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1271,7 +1271,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42352000" />
+    <option name="totallyTimeSpent" value="42995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="2" width="1934" height="1156" extended-state="0" />
@@ -1342,7 +1342,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="gherkin tests" />
     <MESSAGE value="no gherkin" />
     <MESSAGE value="just commit" />
     <MESSAGE value="number of files to commit changes on = 3" />
@@ -1367,7 +1366,8 @@
     <MESSAGE value="nothing" />
     <MESSAGE value="number of files to commit changes on = 1" />
     <MESSAGE value="number of files to commit changes on = 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="number of files to commit changes on = 2" />
+    <MESSAGE value="ignore tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1772,7 +1772,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -1789,8 +1789,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LargeScaleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="132">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
