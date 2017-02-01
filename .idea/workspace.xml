@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15ddfe16-2e07-4913-8a42-cf1e0a14c3f9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/LargeScaleTest.java" afterPath="$PROJECT_DIR$/src/test/java/LargeScaleTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/SimpleTest.java" afterPath="$PROJECT_DIR$/src/test/java/SimpleTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path=".gitignore" />
@@ -21,11 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            <state relative-caret-position="242">
+              <caret line="79" column="16" lean-forward="false" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LargeScaleTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LargeScaleTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LargeScaleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="198">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,10 +150,10 @@
         <option value="$PROJECT_DIR$/src/test/java/GherkinTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/features/testFeature.feature" />
         <option value="$PROJECT_DIR$/src/test/java/features/MyStepdefs.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SimpleTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/LargeScaleTesting.java" />
         <option value="$PROJECT_DIR$/src/test/java/LargeScaleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SimpleTest.java" />
       </list>
     </option>
   </component>
@@ -777,14 +777,7 @@
       <workItem from="1485683674940" duration="3269000" />
       <workItem from="1485763016761" duration="3069000" />
       <workItem from="1485846750487" duration="6757000" />
-      <workItem from="1485962691579" duration="8000" />
-    </task>
-    <task id="LOCAL-00009" summary="a real sleep now">
-      <created>1483445311998</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1483445311998</updated>
+      <workItem from="1485962691579" duration="692000" />
     </task>
     <task id="LOCAL-00010" summary="a real sleep now">
       <created>1483445552322</created>
@@ -1122,7 +1115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485871604617</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="number of files to commit changes on = 2">
+      <created>1485962725021</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1485962725021</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1158,7 +1158,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45466000" />
+    <option name="totallyTimeSpent" value="46150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="2" width="1934" height="1156" extended-state="0" />
@@ -1653,20 +1653,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/LargeScaleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LargeScaleTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state relative-caret-position="242">
+          <caret line="79" column="16" lean-forward="false" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
