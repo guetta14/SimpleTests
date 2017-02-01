@@ -5,7 +5,7 @@ import org.junit.Test;
 /**
  * Created by Guy Guetta on 31/01/2017.
  */
-//@Ignore
+@Ignore
 public class LargeScaleTest {
 
     @Test public void alwaysPassGuy1() {     Assert.assertEquals(1, 1); }
