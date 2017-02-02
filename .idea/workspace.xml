@@ -24,8 +24,8 @@
       <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="352">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -778,14 +778,7 @@
       <workItem from="1485763016761" duration="3069000" />
       <workItem from="1485846750487" duration="6757000" />
       <workItem from="1485962691579" duration="3031000" />
-      <workItem from="1486045847229" duration="687000" />
-    </task>
-    <task id="LOCAL-00015" summary="no gherkin">
-      <created>1483878236969</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1483878236969</updated>
+      <workItem from="1486045847229" duration="1075000" />
     </task>
     <task id="LOCAL-00016" summary="just commit">
       <created>1483879506127</created>
@@ -1123,7 +1116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486045890684</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Pass">
+      <created>1486046612543</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1486046612543</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1159,7 +1159,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49176000" />
+    <option name="totallyTimeSpent" value="49564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1168" extended-state="6" />
@@ -1230,7 +1230,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="number of files to commit changes on = 3" />
     <MESSAGE value="enable gherkin" />
     <MESSAGE value="number of files to commit changes on = 4" />
     <MESSAGE value="commit failing test" />
@@ -1255,7 +1254,8 @@
     <MESSAGE value="ignore tests" />
     <MESSAGE value="number of files to commit changes on = 2" />
     <MESSAGE value="Time to sleep" />
-    <option name="LAST_COMMIT_MESSAGE" value="Time to sleep" />
+    <MESSAGE value="Pass" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pass" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1666,8 +1666,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="352">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
