@@ -16,7 +16,7 @@ public class SimpleTest {
     @Test
     public void alwaysPassGuy999999() throws InterruptedException
     {
-        Thread.sleep(100000);
+//        Thread.sleep(100000);
         Assert.assertEquals(1, 1);
     }
 
