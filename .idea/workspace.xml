@@ -24,12 +24,10 @@
       <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="462">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -780,14 +778,7 @@
       <workItem from="1485962691579" duration="3031000" />
       <workItem from="1486045847229" duration="1768000" />
       <workItem from="1486280154296" duration="4515000" />
-      <workItem from="1486364565128" duration="798000" />
-    </task>
-    <task id="LOCAL-00021" summary="commit failing test">
-      <created>1483977003397</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1483977003397</updated>
+      <workItem from="1486364565128" duration="1428000" />
     </task>
     <task id="LOCAL-00022" summary="return test">
       <created>1483977159028</created>
@@ -1125,7 +1116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486306041623</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="user story #1003">
+      <created>1486366555103</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1486366555104</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1161,7 +1159,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55570000" />
+    <option name="totallyTimeSpent" value="56200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1168" extended-state="0" />
@@ -1232,7 +1230,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="number of files to commit changes on = 4" />
     <MESSAGE value="commit failing test" />
     <MESSAGE value="return test" />
     <MESSAGE value="comment failed test" />
@@ -1257,7 +1254,8 @@
     <MESSAGE value="Pass" />
     <MESSAGE value="user story #1067 user story#1068 quality story #1087" />
     <MESSAGE value="number of files to commit changes on = 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="number of files to commit changes on = 2" />
+    <MESSAGE value="user story #1003" />
+    <option name="LAST_COMMIT_MESSAGE" value="user story #1003" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1292,8 +1290,6 @@
           <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1372,8 +1368,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1414,8 +1408,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1456,8 +1448,6 @@
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1498,8 +1488,6 @@
           <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1540,8 +1528,6 @@
           <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1678,12 +1664,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="462">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
           </folding>
         </state>
       </provider>
