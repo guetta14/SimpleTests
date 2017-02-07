@@ -26,17 +26,17 @@ public class SimpleTest {
         Assert.assertEquals(1, 0);
     }
 
-//    @Test
-//    public void alwaysFailGuy2()
-//    {
-//        Assert.assertEquals(1, 0);
-//    }
-//
-//    @Test
-//    public void alwaysFailGuy3()
-//    {
-//        Assert.assertEquals(1, 0);
-//    }
+    @Test
+    public void alwaysFailGuy2()
+    {
+        Assert.assertEquals(1, 0);
+    }
+
+    @Test
+    public void alwaysFailGuy3()
+    {
+        Assert.assertEquals(1, 0);
+    }
 //
 //    @Test
 //    public void alwaysFailGuy4()
