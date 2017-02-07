@@ -24,8 +24,8 @@
       <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="440">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -779,14 +779,7 @@
       <workItem from="1486045847229" duration="1768000" />
       <workItem from="1486280154296" duration="4515000" />
       <workItem from="1486364565128" duration="3330000" />
-      <workItem from="1486450941058" duration="655000" />
-    </task>
-    <task id="LOCAL-00024" summary="remove unstable test">
-      <created>1484470625699</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1484470625699</updated>
+      <workItem from="1486450941058" duration="951000" />
     </task>
     <task id="LOCAL-00025" summary="defect #1002">
       <created>1484479866833</created>
@@ -1124,7 +1117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486369236532</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="user story #1055 quality story #1056 defect #1057 defect #1058">
+      <created>1486451669248</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1486451669249</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1160,7 +1160,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58757000" />
+    <option name="totallyTimeSpent" value="59053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1938" height="1168" extended-state="6" />
@@ -1231,7 +1231,6 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="return test" />
     <MESSAGE value="comment failed test" />
     <MESSAGE value="remove unstable test" />
     <MESSAGE value="defect #1002" />
@@ -1256,7 +1255,8 @@
     <MESSAGE value="user story #1003" />
     <MESSAGE value="quality story #1005 defect #1004 user story #1003" />
     <MESSAGE value="number of files to commit changes on = 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="number of files to commit changes on = 2" />
+    <MESSAGE value="user story #1055 quality story #1056 defect #1057 defect #1058" />
+    <option name="LAST_COMMIT_MESSAGE" value="user story #1055 quality story #1056 defect #1057 defect #1058" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1665,8 +1665,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="440">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
