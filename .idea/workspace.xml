@@ -23,12 +23,14 @@
       <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="374">
+              <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#422#423#0" expanded="true" />
                 <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -782,7 +784,7 @@
       <workItem from="1486045847229" duration="1768000" />
       <workItem from="1486280154296" duration="4515000" />
       <workItem from="1486364565128" duration="3330000" />
-      <workItem from="1486450941058" duration="3124000" />
+      <workItem from="1486450941058" duration="3169000" />
     </task>
     <task id="LOCAL-00027" summary="number of files to commit changes on = 2">
       <created>1484481538467</created>
@@ -1163,7 +1165,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61226000" />
+    <option name="totallyTimeSpent" value="61271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1938" height="1168" extended-state="6" />
@@ -1296,6 +1298,8 @@
             <element signature="imports" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1376,6 +1380,8 @@
             <element signature="imports" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1418,6 +1424,8 @@
             <element signature="imports" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1460,6 +1468,8 @@
             <element signature="imports" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1502,6 +1512,8 @@
             <element signature="imports" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1544,6 +1556,8 @@
             <element signature="imports" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1682,12 +1696,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="374">
+          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
           </folding>
         </state>
       </provider>
