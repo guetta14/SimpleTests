@@ -16,7 +16,7 @@ public class SimpleTest {
        Assert.assertEquals(1, 1);
    }
 
-    @Test
+    //@Test
     public void alwaysPassGuy999999() throws InterruptedException
     {
 //        Thread.sleep(20000);
@@ -81,8 +81,8 @@ public class SimpleTest {
         Assert.assertEquals(smallerThanFifee, true);
     }
 
-    @Ignore
-    @Test
+    //@Ignore
+    //@Test
     public void sometimesPassGuy2() throws InterruptedException
     {
         Random random = new Random();
