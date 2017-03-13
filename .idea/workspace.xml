@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15ddfe16-2e07-4913-8a42-cf1e0a14c3f9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/SimpleTest.java" afterPath="$PROJECT_DIR$/src/test/java/SimpleTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path=".gitignore" />
@@ -24,8 +23,8 @@
       <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+            <state relative-caret-position="594">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1489390761812" expanded="true" signature="1453:1458" ph="@{...}" />
@@ -832,14 +831,7 @@
       <workItem from="1488885890332" duration="1355000" />
       <workItem from="1488963660057" duration="882000" />
       <workItem from="1488966591495" duration="1815000" />
-      <workItem from="1489387531361" duration="719000" />
-    </task>
-    <task id="LOCAL-00045" summary="add some unstable tests">
-      <created>1485790390508</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1485790390508</updated>
+      <workItem from="1489387531361" duration="1364000" />
     </task>
     <task id="LOCAL-00046" summary="large scale testing">
       <created>1485847792084</created>
@@ -1177,7 +1169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1489387646185</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="commit">
+      <created>1489390770009</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1489390770009</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1213,11 +1212,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92883000" />
+    <option name="totallyTimeSpent" value="93528000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1168" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1168" extended-state="7" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923076" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1712,8 +1711,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        <state relative-caret-position="594">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1489390761812" expanded="true" signature="1453:1458" ph="@{...}" />
